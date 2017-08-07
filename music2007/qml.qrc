@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/player/main.qml</file>
+        <file>qml/player/SwipeScreen.qml</file>
+        <file>qml/player/ListScreen.qml</file>
+        <file>qml/player/LocalScreen.qml</file>
+        <file>images/back.png</file>
+        <file>images/back@2x.png</file>
+        <file>images/back@3x.png</file>
+        <file>images/back@4x.png</file>
+        <file>images/drawer.png</file>
+        <file>images/drawer@2x.png</file>
+        <file>images/drawer@3x.png</file>
+        <file>images/drawer@4x.png</file>
+        <file>images/menu.png</file>
+        <file>images/menu@2x.png</file>
+        <file>images/menu@3x.png</file>
+        <file>images/menu@4x.png</file>
+        <file>qml/player/DrawerButton.qml</file>
+        <file>images/equalizer.png</file>
+        <file>images/fast-forward.png</file>
+        <file>images/favorite.png</file>
+        <file>images/headphones.png</file>
+        <file>images/musical-note.png</file>
+        <file>images/mute.png</file>
+        <file>images/next.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/previous.png</file>
+        <file>images/repeat.png</file>
+        <file>images/rewind.png</file>
+        <file>images/shuffle.png</file>
+        <file>images/stop.png</file>
+        <file>images/volume.png</file>
+        <file>qml/player/SwipeList.qml</file>
+        <file>qml/filelist.qml</file>
+    </qresource>
+</RCC>

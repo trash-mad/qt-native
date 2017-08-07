@@ -1,0 +1,33 @@
+<!-- UFFxml-->
+<!--Special format for UffBox- vk chat bot-->
+<!--Need encoding UTF-8-->
+<root>
+<item>
+<uffoption>вы</uffoption>
+<uffanswer>кто вы то еп твою мать</uffanswer>
+</item>
+<item>
+<uffoption>армия</uffoption>
+<uffanswer>Я стану полковником! Я стану полковником! Я полковник! Я стану полковником! Я стану полковником! Я полковник! Я стану полковником! Я стану полковником! Я стану полковником! Я полковник! Я полковник! Я стану полковником! Я стану полковником! Я полковник! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я СТАНУ ПОЛКОВНИКОМ! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я ПОЛКОВНИК! Я СТАНУ ПОЛКОВНИКОМ!</uffanswer>
+</item>
+<item>
+<uffoption>спать</uffoption>
+<uffanswer>Надо поспать, полежать</uffanswer>
+</item>
+<item>
+<uffoption>/погода</uffoption>
+<uffanswer>Да мне вообще всеравно, какая погода. Че твориться- мне всеравно...</uffanswer>
+</item>
+<item>
+<uffoption>уф</uffoption>
+<uffanswer>НАЧАЛЬНИК! ЭТОТ ПИДОРАС ОБОСРАЛСЯ!</uffanswer>
+</item>
+<item>
+<uffoption>уфф</uffoption>
+<uffanswer>Всетки насрал, ой мудель бля</uffanswer>
+</item>
+<item>
+<uffoption>уффф</uffoption>
+<uffanswer>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</uffanswer>
+</item>
+</root>
